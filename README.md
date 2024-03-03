@@ -20,7 +20,7 @@ Install doomed-dice project with Python using this link: https://github.com/Pack
 ```
 mkdir <folder_name>
 cd <folder_name>
-git pull origin https://github.com/stanj98/doomed-dice.git
+git pull origin https://github.com/stanj98/doomed-dice-solution.git
 cd <part_a/part_b>
 python <module>
 ```
